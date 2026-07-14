@@ -64,4 +64,4 @@ Test the changes locally
 ## Documentation
 All the steps of implementation can be found in the code base  in the path
 `/bedrock_app/vacation_planner/AgentCore Installation and Run Guide`
-and `/bedroc_app/vacation_planner/CrewAI Installation and Run Guide`
+and `/bedrock_app/vacation_planner/CrewAI Installation and Run Guide`
