@@ -59,7 +59,7 @@ Test the changes locally
 - ECR - Push the image from dcoker to ECR to store the images
 - Amazon Bedrock AgentCore- Deploy the Agentic AI App with Image in ECR
 - Lamdba - Run the crew AI  code in lambda
--  API Gateway - To exxpose the end point to bit thru AWS end point for testing the application 
+-  API Gateway - To expose the end point for AWS end point for testing the application 
 
 ## Documentation
 All the steps of implementation can be found in the code base  in the path
