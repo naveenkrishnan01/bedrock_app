@@ -52,7 +52,7 @@ $ uv add streamlit
 
 ## Docker
 Use the dockerfile to create the docker compose and push the changes to desktop docker.
-Test the chages the locally
+Test the changes locally
 
 ## AWS SERVICES used
 
