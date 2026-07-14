@@ -1,0 +1,4 @@
+bedrock-agentcore==0.1.4
+boto3==1.40.35
+crewai[tools]==1.9.3
+streamlit==1.59.1
