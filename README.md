@@ -1,4 +1,16 @@
 # VacationPlanner App using LLM
+![AWS](https://img.shields.io/badge/AWS-Bedrock%20%7C%20Lambda%20%7C%20ECR-orange?logo=amazon-aws&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.10--3.14-blue?logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-containerized-2496ED?logo=docker&logoColor=white)
+
+## Tech Stack
+
+- **AWS Bedrock (Nova Pro)** — LLM inference for the agent crew
+- **AWS Lambda + API Gateway** — serverless execution and endpoint exposure
+- **Amazon ECR** — Docker image registry for deployment
+- **CrewAI** — multi-agent orchestration framework
+- **Streamlit** — frontend UI
+- **Docker** — containerized packaging
 
 Welcome to the VacationPlanner Crew project, powered by [crewAI](https://crewai.com). This template is designed to help you set up a multi-agent AI system with ease, leveraging the powerful and flexible framework provided by crewAI. Our goal is to enable your agents to collaborate effectively on complex tasks, maximizing their collective intelligence and capabilities.
 
